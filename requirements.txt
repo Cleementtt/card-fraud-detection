@@ -1,0 +1,9 @@
+ipykernel
+jupyter
+nbconvert
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+torch
